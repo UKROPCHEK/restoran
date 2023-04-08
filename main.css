@@ -1,0 +1,309 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  margin: 0;
+}
+
+.container {
+    margin: 0 166px;
+}
+
+.header {
+    background-image: url(img/bg.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-line {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between
+}
+
+.fix {
+    display: flex;
+    align-items: center;
+}
+
+.nav{
+    margin-right: 50px;
+}
+
+.nav-item {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+
+    margin-right: 25px;
+
+    transition: color 0.3s linear;
+}
+
+.nav-item:hover {
+    color: red;
+}
+
+.cart {
+    border-right: 1px solid #FFFFFF;
+    height: 50px;
+
+    position: relative;
+
+    margin-right: 50px;
+    padding-right: 10px;
+}
+
+.cart-img {
+    position: absolute;
+    top: 18px;
+    right: 7px;
+}
+
+.phone {
+    margin-right: 50px;
+}
+
+.num {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+
+    transition: color 0.3s linear;
+}
+
+.num:hover {
+    color: red;
+}
+
+.phone-text {
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.phone-holder {
+    display: flex;
+    align-items: center;
+}
+
+.button {
+    background-color: #FF7400;
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 18px;
+    font-weight: 700;
+
+    transition: background-color 0.2s linear;
+}
+
+.button:hover {
+    background-color: #a04900;
+}
+
+.header-down {
+    position: relative;
+}
+
+.header-title {
+    color: #D67E35;
+    font-family: 'Tinos', serif;
+    font-size: 50px;
+    font-weight: 400;
+
+    text-align: center;
+
+    position: absolute;
+    left: 0;
+
+    margin-top: 222px;
+    margin-bottom: 12px;
+}
+
+.header-sub {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+}
+
+.header-sup {
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.after {
+    content: '';
+    height: 2px;
+    width: 61px;
+    background-color: white;
+}
+
+.before {
+    content: '';
+    height: 2px;
+    width: 61px;
+    background-color: white;
+}
+
+.header-button {
+    background-color: #FF7400;
+
+    padding: 14px 28px;
+
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+
+    transition: background-color 0.2s linear;
+}
+
+.header-button:hover {
+    background-color: #a04900;
+}
+
+
+.cards {
+    margin-bottom: 50px;
+}
+
+.cards-holder {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 349px;
+
+    background-color: #fff;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+
+    margin-top: -80px;
+    margin-right: 31px;
+    padding: 0 10px;
+}
+
+.card-image {
+    margin-top: 48px;
+    margin-bottom: 4px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.card-title span {
+    color: #D67E35;
+}
+
+.card-title {
+    margin-bottom: 20px;
+
+    text-align: center;
+
+    font-family: 'Tinos', serif;
+    font-size: 26px;
+    font-weight: 400;
+}
+
+.card-desc {
+    margin-bottom: 54px;
+
+    text-align: center;
+    font-family: 'Tinos', serif;
+    font-size: 26px;
+    font-weight: 400;
+    color: #656363;
+}
+
+.history-holder {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.our-his {
+    width: 444px;
+}
+
+.history-title {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    text-align: center;
+}
+
+.history-title span{
+    color: #D67E35;
+}
+
+.history-desc {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #656363;
+}
+
+.count {
+    display: flex;
+    justify-content: space-around;
+
+    margin-top: 39px;
+}
+
+.count-number {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+
+    margin: 0;
+
+    color: #BC9060;
+}
+
+.number-mean {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
