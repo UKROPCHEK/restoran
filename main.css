@@ -288,6 +288,14 @@ p {
 
 .stock {
     background-image: url(img/black-bg.png);
+
+    padding: 80px 0;
+}
+
+.stock-holder {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .left-title {
