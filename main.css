@@ -320,12 +320,40 @@ p {
     color: #FFFFFF;
 }
 
+.dishes-title {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    text-align: center;
 
+    padding-top: 132px;
+    margin-bottom: 139px;
+}
 
+.dishes-title span {
+    color: #D67E34;
+}
 
+.dishes-holder {
+    display: flex;
+    justify-content: center;
+}
 
+.dish {
+    display: flex;
+    align-items: center;
+    margin-bottom: 29px;
+}
 
+.small-img {
+    margin-right: 30px;
+    margin-left: 20px;
+}
 
-
-
-
+.dish-text {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+}
