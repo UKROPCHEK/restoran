@@ -286,17 +286,31 @@ p {
     text-align: center;
 }
 
+.stock {
+    background-image: url(img/black-bg.png);
+}
 
+.left-title {
+    width: 600px;
 
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
 
+    color: #D67E34;
 
+    margin-bottom: 20px;
+}
 
+.left-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
 
-
-
-
-
-
+    color: #FFFFFF;
+}
 
 
 
