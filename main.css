@@ -357,3 +357,107 @@ p {
     font-weight: 400;
     font-size: 26px;
 }
+
+.menu {
+    background-image: url(img/menubg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-bottom: 226px;
+}
+
+.menu-title {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    text-align: center;
+
+    padding-top: 100px;
+    padding-bottom: 138px;
+
+    color: #fff;
+}
+
+.menu-items {
+    display: flex;
+    justify-content: center;
+}
+
+.menu-item {
+    width: 350px;
+
+    text-align: center;
+
+    margin-right: 30px;
+    padding-top: 80px;
+    padding-bottom: 43px;
+
+    background-color: #fff;
+}
+
+.item-img {
+    padding-bottom: 22px;
+    position: relative;
+}
+
+.price-img {
+    position: absolute;
+    bottom: 30px;
+    right: 53px;
+}
+
+.price-420 {
+    font-family: 'Cookie';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+
+    color: #fff;
+
+    position: absolute;
+    bottom: 61px;
+    right: 82px;
+}
+
+.item-text {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+
+    padding-bottom: 17px;
+}
+
+.item-subtext {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    padding-bottom: 34px;
+}
+
+.menu-btn {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: none;
+
+    padding: 14px 67px;
+
+    background: #D67E34;
+    color: #fff;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+
+
+
+
+
+
+
+
