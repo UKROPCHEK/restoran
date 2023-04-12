@@ -466,6 +466,71 @@ p {
 
 }
 
+.comment {
+    text-align: center;
+
+    background-color: #E6E5E5;
+}
+
+.comment-text {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+
+    padding-top: 104px;
+    padding-bottom: 21px;
+}
+
+.comment-image {
+    padding-bottom: 16px;
+}
+
+.visitor {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+
+    padding-bottom: 14px;
+}
+
+.visitor-name {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+
+    padding-bottom: 140px;
+}
+
+.gallery {
+    text-align: center;
+}
+
+.gallery-title {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+
+    padding-top: 101px;
+    padding-bottom: 60px;
+}
+
+.gallery-title span {
+    color: #D67E34;
+}
+
+.gallery-img {
+
+}
+
+
+
+
+
+
 
 
 
