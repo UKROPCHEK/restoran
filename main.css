@@ -506,6 +506,8 @@ p {
 
 .gallery {
     text-align: center;
+
+    padding-bottom: 100px;
 }
 
 .gallery-title {
@@ -522,19 +524,43 @@ p {
     color: #D67E34;
 }
 
-.gallery-img {
-
+.gallery-top {
+    margin-bottom: 30px;
 }
 
+.gallery-img {
+    margin-right: 30px;
+}
 
+.cooks {
+    text-align: center;
 
+    padding-bottom: 100px;
+}
 
+.cooks-title {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
 
+    margin-bottom: 107px;
+}
 
+.cooks-title span {
+    color: #D67E34;
+}
 
+.cooks-img {
+    margin-right: 30px;
+}
 
-
-
+.footer {
+    background-color: #000;
+    padding: 50px 0;
+    color: #fff;
+    text-align: center;
+}
 
 
 
